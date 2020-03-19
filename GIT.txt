@@ -1,0 +1,11 @@
+1. basic
+git clone
+git add
+git commit -m
+git status
+git push
+
+
+2. master
+git fork
+git push origin master
